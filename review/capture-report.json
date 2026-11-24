@@ -1,0 +1,406 @@
+{
+  "environment": "test2",
+  "shots": {
+    "s1-trigger": {
+      "file": "assets/screens/s1-trigger.png",
+      "capturedOn": "2026-11-23T10:16:35.450Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "بناء"
+        },
+        {
+          "n": 2,
+          "label": "إنشاء سجل جديد"
+        },
+        {
+          "n": 3,
+          "label": "اختر الكيان"
+        },
+        {
+          "n": 4,
+          "label": "الخطوات"
+        }
+      ],
+      "missing": []
+    },
+    "s1-add-step": {
+      "file": "assets/screens/s1-add-step.png",
+      "capturedOn": "2026-11-23T10:16:53.856Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "ابحث عن التطبيقات والإجراءات"
+        },
+        {
+          "n": 2,
+          "label": "Kayan 118"
+        },
+        {
+          "n": 3,
+          "label": "إرسال إشعار يرسل إشعاراً إلى الأعضاء أو الأدوار أو الأقسام أ"
+        }
+      ],
+      "missing": []
+    },
+    "s1-notify": {
+      "file": "assets/screens/s1-notify.png",
+      "capturedOn": "2026-11-23T10:17:12.396Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "عنوان الرسالة"
+        },
+        {
+          "n": 2,
+          "label": "محتوى الرسالة"
+        },
+        {
+          "n": 3,
+          "label": "M Mahmoud Masri - admin"
+        }
+      ],
+      "missing": []
+    },
+    "s1-publish": {
+      "file": "assets/screens/s1-publish.png",
+      "capturedOn": "2026-11-23T10:17:32.708Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "مراجعة ونشر"
+        },
+        {
+          "n": 2,
+          "label": "الفحوصات كل الخطوات مهيّأة."
+        },
+        {
+          "n": 3,
+          "label": "نشر v5"
+        }
+      ],
+      "missing": []
+    },
+    "s1-add-record": {
+      "file": "assets/screens/s1-add-record.png",
+      "capturedOn": "2026-11-23T10:17:46.499Z",
+      "source": "https://test2.kayanos.app/apps/misc/misc/commercial_establishments_procedures_training/add",
+      "marks": [
+        {
+          "n": 1,
+          "label": "أدخل النص"
+        },
+        {
+          "n": 2,
+          "label": "بانتظار الاعتماد"
+        },
+        {
+          "n": 3,
+          "label": "إنشاء"
+        }
+      ],
+      "missing": []
+    },
+    "s1-runs": {
+      "file": "assets/screens/s1-runs.png",
+      "capturedOn": "2026-11-23T10:28:23.362Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "عمليات التشغيل"
+        },
+        {
+          "n": 2,
+          "label": "التشغيل المحدد"
+        },
+        {
+          "n": 3,
+          "label": "نجح"
+        }
+      ],
+      "missing": []
+    },
+    "s2-insert-data": {
+      "file": "assets/screens/s2-insert-data.png",
+      "capturedOn": "2026-11-23T10:18:53.501Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "إدراج بيانات"
+        },
+        {
+          "n": 2,
+          "label": "ابحث في الحقول"
+        },
+        {
+          "n": 3,
+          "label": "data.asm_almnshat مطعم الياسمين — تدريب"
+        }
+      ],
+      "missing": []
+    },
+    "s2-approval-fields": {
+      "file": "assets/screens/s2-approval-fields.png",
+      "capturedOn": "2026-11-23T10:19:13.246Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "عنوان الموافقة"
+        },
+        {
+          "n": 2,
+          "label": "تفاصيل الموافقة"
+        }
+      ],
+      "missing": []
+    },
+    "s2-approval-stage": {
+      "file": "assets/screens/s2-approval-stage.png",
+      "capturedOn": "2026-11-23T10:19:32.790Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "مفتاح المرحلة 1"
+        },
+        {
+          "n": 2,
+          "label": "M Mahmoud Masri - admin"
+        },
+        {
+          "n": 3,
+          "label": "إضافة مرحلة"
+        }
+      ],
+      "missing": []
+    },
+    "s2-approval-actions": {
+      "file": "assets/screens/s2-approval-actions.png",
+      "capturedOn": "2026-11-23T10:20:05.966Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "تسمية الإجراء 1"
+        },
+        {
+          "n": 2,
+          "label": "نتيجة الإجراء 1"
+        },
+        {
+          "n": 3,
+          "label": "لا شيء"
+        }
+      ],
+      "missing": []
+    },
+    "s2-attachments": {
+      "file": "assets/screens/s2-attachments.png",
+      "capturedOn": "2026-11-23T10:32:40.738Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "مرفقات المكتبة التعبير"
+        },
+        {
+          "n": 2,
+          "label": "[]"
+        }
+      ],
+      "missing": []
+    },
+    "s3-reference": {
+      "file": "assets/screens/s3-reference.png",
+      "capturedOn": "2026-11-23T10:21:09.900Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "متقدم إيقاف التشغيل"
+        },
+        {
+          "n": 2,
+          "label": "الاسم المرجعي"
+        }
+      ],
+      "missing": []
+    },
+    "s3-branch": {
+      "file": "assets/screens/s3-branch.png",
+      "capturedOn": "2026-11-23T10:21:32.707Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "أول مسار مطابق"
+        },
+        {
+          "n": 2,
+          "label": "التسمية"
+        },
+        {
+          "n": 3,
+          "label": "شرط مخصص $steps.approval.output.terminalOutcomeKey == \"appro"
+        },
+        {
+          "n": 4,
+          "label": "إضافة مسار"
+        }
+      ],
+      "missing": []
+    },
+    "s3-canvas": {
+      "file": "assets/screens/s3-canvas.png",
+      "capturedOn": "2026-11-23T10:33:11.781Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "تفرّع شرطي"
+        },
+        {
+          "n": 2,
+          "label": "وافق"
+        },
+        {
+          "n": 3,
+          "label": "طلب تغييرات"
+        }
+      ],
+      "missing": []
+    },
+    "s4-update": {
+      "file": "assets/screens/s4-update.png",
+      "capturedOn": "2026-11-23T10:22:14.395Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "اختر الكيان"
+        },
+        {
+          "n": 2,
+          "label": "المُشغِّل › data.id"
+        },
+        {
+          "n": 3,
+          "label": "حالة الملف"
+        }
+      ],
+      "missing": []
+    },
+    "s4-task": {
+      "file": "assets/screens/s4-task.png",
+      "capturedOn": "2026-11-23T10:22:40.292Z",
+      "source": "https://test2.kayanos.app/internal-sop/e086wzqoj84501n9i0_23",
+      "marks": [
+        {
+          "n": 1,
+          "label": "عنوان المهمة"
+        },
+        {
+          "n": 2,
+          "label": "M Mahmoud Masri - admin"
+        }
+      ],
+      "missing": []
+    },
+    "s4-records": {
+      "file": "assets/screens/s4-records.png",
+      "capturedOn": "2026-11-23T10:22:53.154Z",
+      "source": "https://test2.kayanos.app/apps/misc/misc/commercial_establishments_procedures_training",
+      "marks": [
+        {
+          "n": 1,
+          "label": "معتمدة للكشف"
+        },
+        {
+          "n": 2,
+          "label": "تحتاج استكمالاً"
+        },
+        {
+          "n": 3,
+          "label": "بانتظار الاعتماد"
+        }
+      ],
+      "missing": []
+    },
+    "s1-notification": {
+      "file": "assets/screens/s1-notification.png",
+      "capturedOn": "2026-11-23T10:18:29.693Z",
+      "source": "https://test2.kayanos.app/",
+      "marks": [
+        {
+          "n": 1,
+          "label": "الإشعارات"
+        },
+        {
+          "n": 2,
+          "label": "المستجدات"
+        },
+        {
+          "n": 3,
+          "label": "أُضيفت منشأة جديدة: فرن القمح — تدريب — افتح المنشآت التجاري"
+        }
+      ],
+      "missing": []
+    },
+    "s1-new-sop": {
+      "file": "assets/screens/s1-new-sop.png",
+      "capturedOn": "2026-11-23T08:52:00.000Z",
+      "source": "https://test2.kayanos.app/internal-sop/",
+      "marks": [
+        {
+          "n": 1,
+          "label": "الاسم"
+        },
+        {
+          "n": 2,
+          "label": "إنشاء سجل جديد"
+        },
+        {
+          "n": 3,
+          "label": "إنشاء وفتح"
+        }
+      ],
+      "missing": []
+    },
+    "s2-approval-request": {
+      "file": "assets/screens/s2-approval-request.png",
+      "capturedOn": "2026-11-23T09:16:00.000Z",
+      "source": "https://test2.kayanos.app/approval-requests",
+      "marks": [
+        {
+          "n": 1,
+          "label": "بانتظارك"
+        },
+        {
+          "n": 2,
+          "label": "اعتماد إدراج منشأة: مخبز الريحان — تدريب"
+        },
+        {
+          "n": 3,
+          "label": "مسار الموافقة"
+        },
+        {
+          "n": 4,
+          "label": "موافقة"
+        },
+        {
+          "n": 5,
+          "label": "طلب تغييرات"
+        }
+      ],
+      "missing": []
+    }
+  },
+  "note": "Captured on test2 from the training SOP and record type built for this guide. Markers are a DOM overlay drawn before capture."
+}

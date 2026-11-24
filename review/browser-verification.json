@@ -1,0 +1,48 @@
+{
+  "checkedOn": "2026-11-24T10:19:33.063Z",
+  "scope": "Local guide only; not a live correspondence workflow",
+  "sizes": [
+    "1440×900",
+    "390×844"
+  ],
+  "themes": [
+    "dark",
+    "light"
+  ],
+  "checks": [
+    "home offers the two examples",
+    "no horizontal overflow (home)",
+    "one step on screen",
+    "the example opens at its header",
+    "next moves to step 2",
+    "ArrowLeft moves forward in RTL",
+    "ArrowRight moves back in RTL",
+    "chevrons are mirrored for RTL (next points left, previous right)",
+    "«التالي» sits on the left, «السابق» on the right",
+    "a deep link opens its step",
+    "«البيانات» opens the data dialog",
+    "the data dialog lists the values to enter",
+    "the data dialog shows the test2 screenshot",
+    "the screenshot key lists every marker",
+    "arrow keys do not move the step while a dialog is open",
+    "Escape closes the dialog",
+    "«ما فائدتها؟» is short (two lines on desktop)",
+    "no horizontal overflow (flow step)",
+    "the run step shows its two screens (run and notification)",
+    "screens load inside the dialog",
+    "each screen has its numbered key",
+    "code templates can be copied",
+    "expressions read left to right inside Arabic",
+    "the last step offers the next example",
+    "the next example opens from the last step",
+    "home: a started example says «تابع»",
+    "search opens the step",
+    "«ما فائدتها؟» is short (up to 4 lines on a phone)",
+    "phone: the step list is closed",
+    "phone: «كل الخطوات» opens the list",
+    "phone: choosing a step closes the list",
+    "phone: swiping right moves forward in RTL",
+    "without JavaScript all steps are readable"
+  ],
+  "errors": []
+}
